@@ -1,0 +1,12 @@
+.custom-control{
+    width: 250px;
+    height: 30px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-inline-start: 10px;
+}
